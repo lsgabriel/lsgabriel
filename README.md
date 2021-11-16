@@ -6,10 +6,4 @@
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=lsgabriel&show_icons=true&theme=radical)
 
-## Redes
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-henrique-bb9306137/)
-[![behance](https://aleen42.github.io/badges/src/behance.svg)](https://www.behance.net/gabrielhenrique87)
-
-
-
