@@ -1,4 +1,4 @@
-# Ola! Sou o Gabriel 
+# Ola! Sou o Gabriel 👋
 
 <img align="center" alt="git" src="https://c.tenor.com/Ij_hMmJ3d_8AAAAC/neon-retro.gif">
 
