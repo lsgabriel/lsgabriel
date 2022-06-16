@@ -1,6 +1,6 @@
 # Ola! Sou o Gabriel 👋
 
-<p style="font-weight:300">Estudando Desenvolvimento desde <b>2018</b> sempre buscando estudar as </br> tecnologias mais recentes
+<p style="font-weight:300">Estudando Desenvolvimento desde <b>2017</b> sempre buscando estudar as </br> tecnologias mais recentes
 e aprimorar nas que ja possuo dominio.
 Tenho como foco o desenvolvimento das telas</p>
 
