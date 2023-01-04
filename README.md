@@ -5,7 +5,7 @@
 ### Desenvolvimento Mobile - desde 2020
 ### UI/UX Design - desde 2019
 
-## Como foco tenho Design e Desenvolvimento de Interfaces como habilidades.
+## Tenho como foco o Design e Desenvolvimento de Interfaces como habilidades.
 
 ## 🚀 Tecnologias 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
