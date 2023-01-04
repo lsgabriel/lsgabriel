@@ -2,7 +2,7 @@
 Tenho como foco o Design e Desenvolvimento de Interfaces como habilidades.
 
 ## 📘 Estudando:
-## Desenvolvimento Web - desde 2017 (React)
+## Desenvolvimento Web - desde 2017 (React, Vue)
 ## Desenvolvimento Mobile - desde 2020 (React-Native com Expo)
 ## UI/UX Design - desde 2019 (Figma)
 
