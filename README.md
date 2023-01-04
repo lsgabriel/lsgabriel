@@ -14,7 +14,7 @@
 
 
 ## Perfil no Behance:
-[Perfil no Behance](https://www.behance.net/gabrielhenrique87)
+[Link Behance](https://www.behance.net/gabrielhenrique87)
 
 
 | REACT | VUE | STYLED-COMPONENTS | FIGMA |
