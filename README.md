@@ -16,4 +16,4 @@ Tenho como foco o Design e Desenvolvimento de Interfaces como habilidades.
 [Link Behance](https://www.behance.net/gabrielhenrique87)
 
 
-| REACT | VUE | STYLED-COMPONENTS | FIGMA |
+| REACT | VUE | STYLED-COMPONENTS | FIGMA | BOOTSTRAP
