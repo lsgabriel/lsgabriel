@@ -1,4 +1,4 @@
-# Ola! Sou o Gabriel 👋
+# Gabriel - Desenvolvedor Frontend e UI designer
 
 ## 📘 Estudando:
 ### Desenvolvimento Web - desde 2017
