@@ -1,10 +1,11 @@
-# Gabriel - Desenvolvedor Frontend e UI designer
-Tenho como foco o Design e Desenvolvimento de Interfaces como habilidades.
+# Gabriel - Desenvolvedor Web Frontend e UI/UX designer
 
-## 📘 Estudando:
-## Desenvolvimento Web - desde 2017 (React, Vue)
-## Desenvolvimento Mobile - desde 2020 (React-Native com Expo)
-## UI/UX Design - desde 2019 (Figma)
+# Estudando:
+# Desenvolvimento Web Frontend desde 2017:
+Desenvolvimento de Interfaces Web e Mobile usando HTML, CSS, Bootstrap e React.
+
+# UI/UX Design desde 2019:
+Criação de Interfaces Web e Mobile usando o Figma aplicando Auto Layout e Componentes.
 
 ## 🚀 Tecnologias 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -16,4 +17,4 @@ Tenho como foco o Design e Desenvolvimento de Interfaces como habilidades.
 [Link Behance](https://www.behance.net/gabrielhenrique87)
 
 
-| REACT | VUE | STYLED-COMPONENTS | FIGMA | BOOTSTRAP
+| REACT | AUTO LAYOUT | STYLED-COMPONENTS | FIGMA | BOOTSTRAP
