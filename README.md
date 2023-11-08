@@ -1,10 +1,9 @@
-# Gabriel - Desenvolvedor Web Frontend e UI/UX designer
 
 # Estudando:
-# Desenvolvimento Web Frontend desde 2017:
+## Desenvolvimento Web Frontend desde 2017:
 Desenvolvimento de Interfaces Web e Mobile usando HTML, CSS, Bootstrap e React.
 
-# UI/UX Design desde 2019:
+## UI/UX Design desde 2019:
 Criação de Interfaces Web e Mobile usando o Figma aplicando Auto Layout e Componentes.
 
 ## 🚀 Tecnologias 
@@ -13,8 +12,4 @@ Criação de Interfaces Web e Mobile usando o Figma aplicando Auto Layout e Comp
 
 
 
-## Perfil no Behance:
-[Link Behance](https://www.behance.net/gabrielhenrique87)
-
-
-| REACT | AUTO LAYOUT | STYLED-COMPONENTS | FIGMA | BOOTSTRAP
+| HTML | CSS | AUTO LAYOUT | STYLED-COMPONENTS | FIGMA | BOOTSTRAP
