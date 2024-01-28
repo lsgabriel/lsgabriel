@@ -1,9 +1,6 @@
 
-# Estudando:
-## Desenvolvimento Web Frontend desde 2017:
-Desenvolvimento de Interfaces Web e Mobile usando HTML, CSS, Bootstrap e React.
 
-## UI/UX Design desde 2019:
+Desenvolvimento de Interfaces Web e Mobile usando HTML, CSS, Bootstrap e React.
 Criação de Interfaces Web e Mobile usando o Figma aplicando Auto Layout e Componentes.
 
 ## 🚀 Tecnologias 
