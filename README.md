@@ -1,6 +1,6 @@
 
 
-Desenvolvimento de Interfaces Web e Mobile usando HTML, CSS, Bootstrap e React.
+Desenvolvimento de Interfaces Web usando HTML, CSS, Bootstrap e React.
 Design de Interfaces Web e Mobile usando o Figma.
 
 ## 🚀 Tecnologias 
