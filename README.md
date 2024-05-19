@@ -1,7 +1,7 @@
 
 
 Desenvolvimento de Interfaces Web e Mobile usando HTML, CSS, Bootstrap e React.
-Criação de Interfaces Web e Mobile usando o Figma aplicando Auto Layout e Componentes.
+Design de Interfaces Web e Mobile usando o Figma.
 
 ## 🚀 Tecnologias 
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
